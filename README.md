@@ -180,12 +180,12 @@ Currently building new projects at the intersection of **AI, Systems, and Web**.
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50"><br>
-<b>DSA Mastery</b><br>
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50"><br>
+<b>Python Mastery</b><br>
 <sub>Sharpening problem-solving skills with consistent daily practice</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50"><br>
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50"><br>
 <b>Advanced AI/ML</b><br>
 <sub>Deepening understanding of ML algorithms & AI concepts</sub>
 </td>
